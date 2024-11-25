@@ -1,0 +1,19 @@
+header {
+    background-color: grey;
+    padding: 1rem;
+    color: white;
+    font-size: 2rem;
+}
+ nav {
+    display: flex;
+    align-items: center;
+ }
+
+ span {
+    cursor: pointer;
+ }
+
+li {
+    list-style-type: none;
+    cursor: pointer;
+}
